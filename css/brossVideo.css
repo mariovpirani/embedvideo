@@ -1,0 +1,22 @@
+.playerBross {
+    position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;
+}
+.playerBross video {
+    width: 100%;
+    height: auto;
+}
+.playerBross .buttons{
+    width: 80%;
+    padding: 10px;
+    position: absolute;
+    bottom: 10;
+    transition: all 0.2s ease;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5));
+    
+}
+.playerBross iframe, .playerBross object, .playerBross embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.playerBross button {
+    color: #fff;
+    padding: 10px;
+    background-color: black;
+}
