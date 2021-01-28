@@ -42,7 +42,7 @@ Esse primeiro embed serve para facilitar a vida de programadores iniciantes
 ``` div class="playerBross" data-dailymotion="xsr67x"></div> ```
 
 
-# Instanciar o js, css e recaptcha
+# Instanciar o js e css
 ```HTML
 <link rel="stylesheet" href="css/brossVideo.css">
 <script src="js/brossVideo.js"> </script>
