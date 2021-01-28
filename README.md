@@ -47,6 +47,9 @@ Esse primeiro embed serve para facilitar a vida de programadores iniciantes
 <link rel="stylesheet" href="css/brossVideo.css">
 <script src="js/brossVideo.js"> </script>
 ```
+# Demo
+
+[Demo](https://www.tosempreai.com.br/git/brossplayer/)
 
 
 # Pronto para usar
