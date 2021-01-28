@@ -1,6 +1,6 @@
 # Youtube, Vimeo, Dailymotion e MP4 Player Responsive
-Embed de maneira fácil de vídeos de várias plataformas. Responsivo
-
+Embed de maneira fácil de vídeos de várias plataformas. Responsivo<br>
+<br>
 Esse primeiro embed serve para facilitar a vida de programadores iniciantes
 ## Arquivos / Tree
 
@@ -27,9 +27,9 @@ Esse primeiro embed serve para facilitar a vida de programadores iniciantes
 
 ## MP4
 
-**data-video**: url_mp4
-**data-poster**: src_imagem
-**data-controls**: false or true
+**data-video**: url_mp4<br>
+**data-poster**: src_imagem<br>
+**data-controls**: false or true<br>
 
 
 ``` <div class="playerBross" data-poster="url_imagem" data-controls="true" data-video="video.mp4"></div> ```
